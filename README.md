@@ -222,3 +222,30 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+## feature 1 : profile
+
++ Name of feature: change the profile
+
++ Estimate of time needed to complete: 1 hour
+
++ Start time: 2:15 pm
+
++ Finish time: 3:15 pm
+
++ Actual time needed to complete: 30 min
+
+---
+
+## feature 2 : landing
+
++ Name of feature: change the landing
+
++ Estimate of time needed to complete: 3 hours
+
++ Start time: 3:30 pm
+
++ Finish time: 9:00 pm
+
++ Actual time needed to complete: 5 hours
